@@ -176,14 +176,12 @@ def route_query(question: str, accounts: list[dict]) -> dict:
 
     if re.search(r"\bT-\d+\b", question, re.IGNORECASE):
         return {"route": "TICKET_LOOKUP", "confidence": 0.98}
-
     ticket_keywords = [
         "ticket",
         "assigned",
         "unassigned",
         "urgent tickets",
-        "status of ticket",
-        "open tickets",
+        "status of ticket"
     ]
     if any(k in q for k in ticket_keywords):
         return {"route": "TICKET_LOOKUP", "confidence": 0.9}
