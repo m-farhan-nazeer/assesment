@@ -1,0 +1,152 @@
+[
+  {
+    "ticket_id": "T-2001",
+    "status": "open",
+    "assigned_to": "Sara",
+    "created_at": "2026-03-04T08:00:00Z",
+    "priority": "urgent",
+    "customer_name": "Acme Corp",
+    "customer_tier": "enterprise",
+    "last_customer_message": "Payment gateway failing in production checkout."
+  },
+  {
+    "ticket_id": "T-2002",
+    "status": "in_progress",
+    "assigned_to": "Hassan",
+    "created_at": "2026-03-03T11:30:00Z",
+    "priority": "high",
+    "customer_name": "Delta Retail",
+    "customer_tier": "pro",
+    "last_customer_message": "Webhook deliveries are creating duplicate records."
+  },
+  {
+    "ticket_id": "T-2003",
+    "status": "open",
+    "assigned_to": null,
+    "created_at": "2026-03-02T09:15:00Z",
+    "priority": "medium",
+    "customer_name": "Blue Ridge Systems",
+    "customer_tier": "basic",
+    "last_customer_message": "Annual invoice amount does not match quote."
+  },
+  {
+    "ticket_id": "T-2004",
+    "status": "open",
+    "assigned_to": "Bilal",
+    "created_at": "2026-03-05T14:40:00Z",
+    "priority": "urgent",
+    "customer_name": "Orbit Health",
+    "customer_tier": "enterprise",
+    "last_customer_message": "SSO login failing for several users."
+  },
+  {
+    "ticket_id": "T-2005",
+    "status": "resolved",
+    "assigned_to": "Areeba",
+    "created_at": "2026-03-01T07:20:00Z",
+    "priority": "low",
+    "customer_name": "Sunline Media",
+    "customer_tier": "basic",
+    "last_customer_message": "Need sandbox API credentials."
+  },
+  {
+    "ticket_id": "T-2006",
+    "status": "open",
+    "assigned_to": null,
+    "created_at": "2026-03-01T10:00:00Z",
+    "priority": "high",
+    "customer_name": "Nexa Labs",
+    "customer_tier": "pro",
+    "last_customer_message": "Rate limit reached earlier than expected."
+  },
+  {
+    "ticket_id": "T-2007",
+    "status": "in_progress",
+    "assigned_to": "Sara",
+    "created_at": "2026-03-03T09:30:00Z",
+    "priority": "medium",
+    "customer_name": "Pixel Works",
+    "customer_tier": "basic",
+    "last_customer_message": "Need help exporting customer records."
+  },
+  {
+    "ticket_id": "T-2008",
+    "status": "open",
+    "assigned_to": null,
+    "created_at": "2026-03-05T06:10:00Z",
+    "priority": "urgent",
+    "customer_name": "Orbit Health",
+    "customer_tier": "enterprise",
+    "last_customer_message": "System outage affecting login."
+  },
+  {
+    "ticket_id": "T-2009",
+    "status": "open",
+    "assigned_to": "Hassan",
+    "created_at": "2026-03-04T12:00:00Z",
+    "priority": "medium",
+    "customer_name": "GreenCore Logistics",
+    "customer_tier": "pro",
+    "last_customer_message": "Webhook not triggering after event."
+  },
+  {
+    "ticket_id": "T-2010",
+    "status": "open",
+    "assigned_to": null,
+    "created_at": "2026-02-28T10:15:00Z",
+    "priority": "high",
+    "customer_name": "Quantum Systems",
+    "customer_tier": "enterprise",
+    "last_customer_message": "Billing discrepancy on enterprise contract."
+  },
+  {
+    "ticket_id": "T-2011",
+    "status": "in_progress",
+    "assigned_to": "Areeba",
+    "created_at": "2026-03-02T13:00:00Z",
+    "priority": "low",
+    "customer_name": "Sunline Media",
+    "customer_tier": "basic",
+    "last_customer_message": "How to add additional users?"
+  },
+  {
+    "ticket_id": "T-2012",
+    "status": "open",
+    "assigned_to": "Bilal",
+    "created_at": "2026-03-04T07:00:00Z",
+    "priority": "urgent",
+    "customer_name": "Helios Power",
+    "customer_tier": "enterprise",
+    "last_customer_message": "API returning 500 errors in production."
+  },
+  {
+    "ticket_id": "T-2013",
+    "status": "open",
+    "assigned_to": null,
+    "created_at": "2026-03-05T10:00:00Z",
+    "priority": "medium",
+    "customer_name": "Nexa Labs",
+    "customer_tier": "pro",
+    "last_customer_message": "Need clarification on rate limits."
+  },
+  {
+    "ticket_id": "T-2014",
+    "status": "in_progress",
+    "assigned_to": "Sara",
+    "created_at": "2026-03-03T08:45:00Z",
+    "priority": "high",
+    "customer_name": "Orbit Health",
+    "customer_tier": "enterprise",
+    "last_customer_message": "Login errors after SSO update."
+  },
+  {
+    "ticket_id": "T-2015",
+    "status": "open",
+    "assigned_to": null,
+    "created_at": "2026-02-27T09:00:00Z",
+    "priority": "medium",
+    "customer_name": "Pixel Works",
+    "customer_tier": "basic",
+    "last_customer_message": "Customer cannot export reports."
+  }
+]

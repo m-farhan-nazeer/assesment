@@ -1,0 +1,72 @@
+[
+  {
+    "customer_name": "Acme Corp",
+    "plan": "enterprise",
+    "renewal_date": "2026-06-15",
+    "open_ticket_count": 3,
+    "health_score": 42
+  },
+  {
+    "customer_name": "Delta Retail",
+    "plan": "pro",
+    "renewal_date": "2026-04-20",
+    "open_ticket_count": 2,
+    "health_score": 63
+  },
+  {
+    "customer_name": "Blue Ridge Systems",
+    "plan": "basic",
+    "renewal_date": "2026-03-28",
+    "open_ticket_count": 1,
+    "health_score": 58
+  },
+  {
+    "customer_name": "Orbit Health",
+    "plan": "enterprise",
+    "renewal_date": "2026-07-01",
+    "open_ticket_count": 4,
+    "health_score": 35
+  },
+  {
+    "customer_name": "Nexa Labs",
+    "plan": "pro",
+    "renewal_date": "2026-05-10",
+    "open_ticket_count": 2,
+    "health_score": 49
+  },
+  {
+    "customer_name": "Sunline Media",
+    "plan": "basic",
+    "renewal_date": "2026-09-01",
+    "open_ticket_count": 0,
+    "health_score": 75
+  },
+  {
+    "customer_name": "Pixel Works",
+    "plan": "basic",
+    "renewal_date": "2026-05-30",
+    "open_ticket_count": 1,
+    "health_score": 66
+  },
+  {
+    "customer_name": "GreenCore Logistics",
+    "plan": "pro",
+    "renewal_date": "2026-08-12",
+    "open_ticket_count": 1,
+    "health_score": 71
+  },
+  {
+    "customer_name": "Quantum Systems",
+    "plan": "enterprise",
+    "renewal_date": "2026-12-01",
+    "open_ticket_count": 2,
+    "health_score": 40
+  },
+  {
+    "customer_name": "Helios Power",
+    "plan": "enterprise",
+    "renewal_date": "2026-11-15",
+    "open_ticket_count": 3,
+    "health_score": 38
+  }
+]
